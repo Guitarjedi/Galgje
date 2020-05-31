@@ -1,0 +1,13 @@
+C:\Users\Matthijs\source\repos\Galgje\Galgje\bin\Debug\netcoreapp3.1\Galgje.exe
+C:\Users\Matthijs\source\repos\Galgje\Galgje\bin\Debug\netcoreapp3.1\Galgje.deps.json
+C:\Users\Matthijs\source\repos\Galgje\Galgje\bin\Debug\netcoreapp3.1\Galgje.runtimeconfig.json
+C:\Users\Matthijs\source\repos\Galgje\Galgje\bin\Debug\netcoreapp3.1\Galgje.runtimeconfig.dev.json
+C:\Users\Matthijs\source\repos\Galgje\Galgje\bin\Debug\netcoreapp3.1\Galgje.dll
+C:\Users\Matthijs\source\repos\Galgje\Galgje\bin\Debug\netcoreapp3.1\Galgje.pdb
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.dll
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.pdb
+C:\Users\Matthijs\source\repos\Galgje\Galgje\obj\Debug\netcoreapp3.1\Galgje.genruntimeconfig.cache
